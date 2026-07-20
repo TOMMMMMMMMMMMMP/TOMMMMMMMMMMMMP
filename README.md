@@ -1,13 +1,18 @@
-# 👋 Salut, moi c'est TOMMMMMMMMMMMMP !
+# 👋 Hi, I'm Tom!
 
-<!-- Ta carte personnalisée centrée (nécessite l'image motto.png dans ton dépôt) -->
+<!-- Your custom motto card (loads the motto.svg file from your repo) -->
 <p align="center">
-  <img src="motto.png" alt="Life Motto por Tom Poncet" width="600" />
+  <img src="motto.svg" alt="Life Motto by Tom Poncet" width="600" />
 </p>
 
-## 🛠️ Technologies & Outils
+<p align="center">
+  <a href="https://www.portfolio-tom-poncet.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-603A26?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-<!-- Tous tes badges réunis et centrés avec tes couleurs -->
+## 🛠️ Technologies & Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
