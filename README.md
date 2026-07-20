@@ -102,5 +102,5 @@
   <img src="./icons/react.svg" width="48">
   <img src="./icons/vue.svg" width="48">
   <img src="./icons/docker.svg" width="48">
-  <img src="./icons/nodejs.svg" width="48">
+  <img src="./icons/amplitude.svg" width="48">
 </p>
