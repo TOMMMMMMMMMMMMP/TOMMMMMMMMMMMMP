@@ -21,12 +21,6 @@
   <img src="https://skillicons.dev/icons?i=react,ts,js,php,html,css,wordpress,c,cs,java,python,mysql,aws,docker,git,github,gitlab,jira,linux,windows,notion" />
 </p>
 ---
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TOMMMMMMMMMMMMP&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOMMMMMMMMMMMMP&layout=compact&theme=tokyonight" />
-</p>
----
 ## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=TOMMMMMMMMMMMMP&theme=tokyonight" />
