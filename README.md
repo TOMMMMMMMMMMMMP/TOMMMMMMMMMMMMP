@@ -28,7 +28,11 @@
 
 ## 🛠️ Tech Stack
 
-![React](./icons/anthropic.svg)
+![anthropic](icons/anthropic.svg)
+
+![anthropic](./icons/anthropic.svg)
+
+![anthropic](https://raw.githubusercontent.com/TOMMMMMMMMMMMMP/TOMMMMMMMMMMMMP/main/icons/anthropic.svg)
 
 <img src="./icons/anthropic.svg" width="64" alt="Reacdddddddt">
 
