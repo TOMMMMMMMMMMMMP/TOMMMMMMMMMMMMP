@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est TON_PSEUDO !
+# 👋 Salut, moi c'est TOMMMMMMMMMMMMP !
 
 <!-- Bannière animée en haut avec ta couleur #992297 -->
 ![Bannière](https://capsule-render.vercel.app/api?type=wave&color=992297&height=200&section=header&text=Bienvenue%20sur%20mon%20profil&fontSize=40&animation=twinkling)
@@ -6,7 +6,7 @@
 ## 📊 Mes Statistiques GitHub
 
 <!-- Tes stats globales -->
-[![Stats de TON_PSEUDO](https://github-readme-stats.vercel.app/api?username=TOMMMMMMMMMMMMP&show_icons=true&theme=dark&animate_card=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats de TOMMMMMMMMMMMMP](https://github-readme-stats.vercel.app/api?username=TOMMMMMMMMMMMMP&show_icons=true&theme=dark&animate_card=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Tes langages les plus utilisés -->
-[![Langages de TON_PSEUDO](https://github-readme-stats.vercel.app/api/top-langs/?username=TOMMMMMMMMMMMMP&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Langages de TOMMMMMMMMMMMMP](https://github-readme-stats.vercel.app/api/top-langs/?username=TOMMMMMMMMMMMMP&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
