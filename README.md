@@ -131,6 +131,7 @@
   <img src="icons/vscode.svg" alt="VS Code" width="40" height="40" />
   <img src="icons/webpack.svg" alt="Webpack" width="40" height="40" />
   <img src="icons/yarn.svg" alt="Yarn" width="40" height="40" />
+  <img src="icons/yaml.svg" alt="Yarn" width="40" height="40" />
 </p>
 
 ---
