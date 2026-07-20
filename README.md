@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Tom!
 
-<!-- Your custom motto card (loads the motto.png file from your repo) -->
+<!-- Your custom motto card with rounded corners -->
 <p align="center">
-  <img src="motto.png" alt="Life Motto by Tom Poncet" width="600" />
+  <img src="motto.png" alt="Life Motto by Tom Poncet" width="600" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </p>
 
 <p align="center">
