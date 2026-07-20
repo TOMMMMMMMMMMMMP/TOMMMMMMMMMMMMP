@@ -30,6 +30,8 @@
 
 ![React](./icons/anthropic.svg)
 
+<img src="./icons/anthropic.svg" width="64" alt="Reacdddddddt">
+
 <p align="center">
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" width="48" height="48" alt="TypeScript" />
