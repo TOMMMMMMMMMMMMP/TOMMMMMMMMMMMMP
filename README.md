@@ -18,9 +18,7 @@
 - 📍 Based in Lyon, France
 - 🔍 **Currently looking for an apprenticeship** (1 week / 1 week rhythm)
 - 🌱 Specializing in Cybersecurity, DevOps, DevSecOps and AI Agents
-- 💻 Interested in development, cloud, DevOps culture, security and AI automation
 - 🌐 Check out my work on my portfolio: **[portfolio-tom-poncet.com](https://www.portfolio-tom-poncet.com/)**
-- ⚡ Always learning and building something new
 
 ---
 
