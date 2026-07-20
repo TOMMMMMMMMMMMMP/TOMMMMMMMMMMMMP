@@ -28,38 +28,109 @@
 
 ## 🛠️ Tech Stack
 
-![anthropic](icons/anthropic.svg)
-
-![anthropic](./icons/anthropic.svg)
-
-![anthropic](https://raw.githubusercontent.com/TOMMMMMMMMMMMMP/TOMMMMMMMMMMMMP/main/icons/anthropic.svg)
-
-<img src="./icons/anthropic.svg" width="64" alt="Reacdddddddt">
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="48" height="48" alt="TypeScript" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" height="48" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" width="48" height="48" alt="PHP" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="48" height="48" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" width="48" height="48" alt="CSS3" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" width="48" height="48" alt="WordPress" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" width="48" height="48" alt="C" />
-  <img src="https://cdn.simpleicons.org/csharp/239120" width="48" height="48" alt="C#" />
-  <img src="https://cdn.simpleicons.org/java/007396" width="48" height="48" alt="Java" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" alt="MySQL" />
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="48" height="48" alt="AWS" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" alt="Docker" />
-  <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" />
-  <img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" alt="GitHub" />
-  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="48" height="48" alt="GitLab" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48" alt="Jira" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="48" height="48" alt="Linux" />
-  <img src="https://cdn.simpleicons.org/windows/0078D6" width="48" height="48" alt="Windows" />
-  <img src="https://cdn.simpleicons.org/notion/000000" width="48" height="48" alt="Notion" />
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="48" height="48" alt="Cisco" />
-  <img src="https://cdn.simpleicons.org/virtualbox/183A61" width="48" height="48" alt="VirtualBox" />
+<p align="left">
+  <img src="icons/amplitude.svg" alt="Amplitude" width="40" height="40" />
+  <img src="icons/angular.svg" alt="Angular" width="40" height="40" />
+  <img src="icons/anthropic.svg" alt="Anthropic" width="40" height="40" />
+  <img src="icons/apache.svg" alt="Apache" width="40" height="40" />
+  <img src="icons/astro.svg" alt="Astro" width="40" height="40" />
+  <img src="icons/aws.svg" alt="AWS" width="40" height="40" />
+  <img src="icons/azure.svg" alt="Azure" width="40" height="40" />
+  <img src="icons/bitbucket.svg" alt="Bitbucket" width="40" height="40" />
+  <img src="icons/chakraui.svg" alt="Chakra UI" width="40" height="40" />
+  <img src="icons/circleci.svg" alt="CircleCI" width="40" height="40" />
+  <img src="icons/csharp.svg" alt="C#" width="40" height="40" />
+  <img src="icons/cypress.svg" alt="Cypress" width="40" height="40" />
+  <img src="icons/datadog.svg" alt="Datadog" width="40" height="40" />
+  <img src="icons/docker.svg" alt="Docker" width="40" height="40" />
+  <img src="icons/drizzle.svg" alt="Drizzle" width="40" height="40" />
+  <img src="icons/elixir.svg" alt="Elixir" width="40" height="40" />
+  <img src="icons/ember.svg" alt="Ember" width="40" height="40" />
+  <img src="icons/erlang.svg" alt="Erlang" width="40" height="40" />
+  <img src="icons/esbuild.svg" alt="esbuild" width="40" height="40" />
+  <img src="icons/figma.svg" alt="Figma" width="40" height="40" />
+  <img src="icons/firebase.svg" alt="Firebase" width="40" height="40" />
+  <img src="icons/gatsby.svg" alt="Gatsby" width="40" height="40" />
+  <img src="icons/git.svg" alt="Git" width="40" height="40" />
+  <img src="icons/github.svg" alt="GitHub" width="40" height="40" />
+  <img src="icons/gitlab.svg" alt="GitLab" width="40" height="40" />
+  <img src="icons/go.svg" alt="Go" width="40" height="40" />
+  <img src="icons/grafana.svg" alt="Grafana" width="40" height="40" />
+  <img src="icons/graphql.svg" alt="GraphQL" width="40" height="40" />
+  <img src="icons/gulp.svg" alt="Gulp" width="40" height="40" />
+  <img src="icons/heroku.svg" alt="Heroku" width="40" height="40" />
+  <img src="icons/huggingface.svg" alt="Hugging Face" width="40" height="40" />
+  <img src="icons/insomnia.svg" alt="Insomnia" width="40" height="40" />
+  <img src="icons/java.svg" alt="Java" width="40" height="40" />
+  <img src="icons/jest.svg" alt="Jest" width="40" height="40" />
+  <img src="icons/kotlin.svg" alt="Kotlin" width="40" height="40" />
+  <img src="icons/kubernetes.svg" alt="Kubernetes" width="40" height="40" />
+  <img src="icons/langchain.svg" alt="LangChain" width="40" height="40" />
+  <img src="icons/less.svg" alt="Less" width="40" height="40" />
+  <img src="icons/linux.svg" alt="Linux" width="40" height="40" />
+  <img src="icons/llamaindex.svg" alt="LlamaIndex" width="40" height="40" />
+  <img src="icons/make.svg" alt="Make" width="40" height="40" />
+  <img src="icons/materialui.svg" alt="Material UI" width="40" height="40" />
+  <img src="icons/mongodb.svg" alt="MongoDB" width="40" height="40" />
+  <img src="icons/mongoose.svg" alt="Mongoose" width="40" height="40" />
+  <img src="icons/mysql.svg" alt="MySQL" width="40" height="40" />
+  <img src="icons/n8n.svg" alt="n8n" width="40" height="40" />
+  <img src="icons/neovim.svg" alt="Neovim" width="40" height="40" />
+  <img src="icons/netlify.svg" alt="Netlify" width="40" height="40" />
+  <img src="icons/newrelic.svg" alt="New Relic" width="40" height="40" />
+  <img src="icons/nextjs.svg" alt="Next.js" width="40" height="40" />
+  <img src="icons/nginx.svg" alt="NGINX" width="40" height="40" />
+  <img src="icons/nodejs.svg" alt="Node.js" width="40" height="40" />
+  <img src="icons/npm.svg" alt="npm" width="40" height="40" />
+  <img src="icons/openai.svg" alt="OpenAI" width="40" height="40" />
+  <img src="icons/perl.svg" alt="Perl" width="40" height="40" />
+  <img src="icons/php.svg" alt="PHP" width="40" height="40" />
+  <img src="icons/playwright.svg" alt="Playwright" width="40" height="40" />
+  <img src="icons/pnpm.svg" alt="pnpm" width="40" height="40" />
+  <img src="icons/postgresql.svg" alt="PostgreSQL" width="40" height="40" />
+  <img src="icons/postman.svg" alt="Postman" width="40" height="40" />
+  <img src="icons/preact.svg" alt="Preact" width="40" height="40" />
+  <img src="icons/prisma.svg" alt="Prisma" width="40" height="40" />
+  <img src="icons/prometheus.svg" alt="Prometheus" width="40" height="40" />
+  <img src="icons/pycharm.svg" alt="PyCharm" width="40" height="40" />
+  <img src="icons/pytest.svg" alt="Pytest" width="40" height="40" />
+  <img src="icons/python.svg" alt="Python" width="40" height="40" />
+  <img src="icons/pytorch.svg" alt="PyTorch" width="40" height="40" />
+  <img src="icons/qwik.svg" alt="Qwik" width="40" height="40" />
+  <img src="icons/r.svg" alt="R" width="40" height="40" />
+  <img src="icons/railway.svg" alt="Railway" width="40" height="40" />
+  <img src="icons/react.svg" alt="React" width="40" height="40" />
+  <img src="icons/redis.svg" alt="Redis" width="40" height="40" />
+  <img src="icons/remix.svg" alt="Remix" width="40" height="40" />
+  <img src="icons/render.svg" alt="Render" width="40" height="40" />
+  <img src="icons/rollup.svg" alt="Rollup" width="40" height="40" />
+  <img src="icons/rspec.svg" alt="RSpec" width="40" height="40" />
+  <img src="icons/ruby.svg" alt="Ruby" width="40" height="40" />
+  <img src="icons/rust.svg" alt="Rust" width="40" height="40" />
+  <img src="icons/sass.svg" alt="Sass" width="40" height="40" />
+  <img src="icons/scala.svg" alt="Scala" width="40" height="40" />
+  <img src="icons/segment.svg" alt="Segment" width="40" height="40" />
+  <img src="icons/selenium.svg" alt="Selenium" width="40" height="40" />
+  <img src="icons/sentry.svg" alt="Sentry" width="40" height="40" />
+  <img src="icons/sequelize.svg" alt="Sequelize" width="40" height="40" />
+  <img src="icons/sketch.svg" alt="Sketch" width="40" height="40" />
+  <img src="icons/slack.svg" alt="Slack" width="40" height="40" />
+  <img src="icons/sqlalchemy.svg" alt="SQLAlchemy" width="40" height="40" />
+  <img src="icons/storybook.svg" alt="Storybook" width="40" height="40" />
+  <img src="icons/supabase.svg" alt="Supabase" width="40" height="40" />
+  <img src="icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40" />
+  <img src="icons/tensorflow.svg" alt="TensorFlow" width="40" height="40" />
+  <img src="icons/terraform.svg" alt="Terraform" width="40" height="40" />
+  <img src="icons/travis.svg" alt="Travis CI" width="40" height="40" />
+  <img src="icons/twilio.svg" alt="Twilio" width="40" height="40" />
+  <img src="icons/typeorm.svg" alt="TypeORM" width="40" height="40" />
+  <img src="icons/typescript.svg" alt="TypeScript" width="40" height="40" />
+  <img src="icons/vercel.svg" alt="Vercel" width="40" height="40" />
+  <img src="icons/vim.svg" alt="Vim" width="40" height="40" />
+  <img src="icons/vitest.svg" alt="Vitest" width="40" height="40" />
+  <img src="icons/vscode.svg" alt="VS Code" width="40" height="40" />
+  <img src="icons/webpack.svg" alt="Webpack" width="40" height="40" />
+  <img src="icons/yarn.svg" alt="Yarn" width="40" height="40" />
 </p>
 
 ---
