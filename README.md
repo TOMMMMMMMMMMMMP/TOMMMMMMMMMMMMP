@@ -28,6 +28,8 @@
 
 ## 🛠️ Tech Stack
 
+![React](./icons/anthropic.svg)
+
 <p align="center">
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" width="48" height="48" alt="TypeScript" />
@@ -96,11 +98,4 @@
 
 <p align="center">
   Thanks for visiting my profile! 🚀
-</p>
-
-<p align="center">
-  <img src="./icons/react.svg" width="48">
-  <img src="./icons/vue.svg" width="48">
-  <img src="./icons/docker.svg" width="48">
-  <img src="./icons/amplitude.svg" width="48">
 </p>
