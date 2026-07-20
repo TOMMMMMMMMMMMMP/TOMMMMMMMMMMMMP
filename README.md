@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Tom!
 
-<!-- Your custom motto card (loads the motto.svg file from your repo) -->
+<!-- Your custom motto card (loads the motto.png file from your repo) -->
 <p align="center">
-  <img src="motto.svg" alt="Life Motto by Tom Poncet" width="600" />
+  <img src="motto.png" alt="Life Motto by Tom Poncet" width="600" />
 </p>
 
 <p align="center">
