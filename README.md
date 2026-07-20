@@ -6,7 +6,7 @@
 ## 📊 Mes Statistiques GitHub
 
 <!-- Tes stats globales -->
-[![Stats de TON_PSEUDO](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=dark&animate_card=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats de TON_PSEUDO](https://github-readme-stats.vercel.app/api?username=TOMMMMMMMMMMMMP&show_icons=true&theme=dark&animate_card=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Tes langages les plus utilisés -->
-[![Langages de TON_PSEUDO](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Langages de TON_PSEUDO](https://github-readme-stats.vercel.app/api/top-langs/?username=TOMMMMMMMMMMMMP&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
